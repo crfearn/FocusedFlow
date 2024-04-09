@@ -1,0 +1,8 @@
+.create-form{
+    max-width: 600px;
+    margin-bottom: 100px;
+    padding-left: 25%;
+    /* display: flex; */
+    align-items: center;
+    /* justify-content: center; */
+}
